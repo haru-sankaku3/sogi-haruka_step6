@@ -1,0 +1,36 @@
+body {
+    background: #f5f5f5;
+    }
+
+header {
+    background: pink;
+    padding: 10px;
+    text-align: center;
+}
+
+.sidebar {
+    background: #aef7e5;
+    width: 200px;
+    padding: 20px;
+    list-style: none;
+    float: left;
+}
+
+.content {
+    background: #ffeec2;
+    margin-left: 200px;
+    padding: 18px;
+}
+
+table {
+    margin:auto
+}
+
+.btn-area {
+    text-align: right;
+}
+
+.footer {
+    background: #a9a9a9;
+    height: 60px;
+}
